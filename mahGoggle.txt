@@ -1,7 +1,0 @@
-! name: Test Goggle
-! description: Filters sites useful for me 
-! public: false
-! author: Name Here
-
-$discard
-$site=pornhub.com,boost=4
